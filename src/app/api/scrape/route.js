@@ -7,7 +7,7 @@ const getChromePath = () => {
 };
 
 export async function POST(req) {
-  const { city, category } = await req.json();
+  const { city, category } = await req.json()
 
   let browser;
   try {
