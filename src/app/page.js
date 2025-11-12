@@ -81,5 +81,5 @@ export default function BusinessNameFinder() {
         </div>
       </div>
     </div>
-  )
+  );
 }
